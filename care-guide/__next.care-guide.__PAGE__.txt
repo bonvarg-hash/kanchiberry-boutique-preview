@@ -1,0 +1,27 @@
+2:"$Sreact.fragment"
+3:"/kanchiberry-boutique-preview/_next/static/chunks/0umf92h1sb77c.js"
+4:"/kanchiberry-boutique-preview/_next/static/chunks/1mqm_21x14vb1.js"
+5:"/kanchiberry-boutique-preview/_next/static/chunks/3l0h4qw-44xze.js"
+6:"/kanchiberry-boutique-preview/_next/static/chunks/3z4a42ii_51w4.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+d:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$3","$4","$5","$6"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$3","$4","$5","$6"],"$13"]
+a:X
+a:C
+b:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"wrap max-w-4xl! pb-24 pt-14 max-md:pb-16 max-md:pt-8 lg:pt-20","children":[["$","p",null,{"className":"eyebrow","children":"Customer care"}],["$","h1",null,{"className":"serif mt-4 max-md:mt-3 text-[clamp(3rem,7vw,6rem)] font-light leading-[0.9]","children":"Saree Care Guide"}],["$","p",null,{"className":"lede mt-6 max-w-[56ch]! max-md:mt-3","children":"General guidance for keeping your sarees beautiful. Always follow the care label on the individual saree where one is provided."}],[["$","section","Silks: Kanjivaram, Banarasi, Paithani, Patola",{"className":"mt-14 border-t border-sand pt-8 max-md:mt-10 max-md:pt-6","children":[["$","h2",null,{"className":"serif text-3xl","children":"Silks: Kanjivaram, Banarasi, Paithani, Patola"}],["$","ul",null,{"className":"mt-5 max-md:mt-3 list-disc space-y-2 pl-5 text-ink-soft","children":[["$","li","Dry clean, especially for the first few washes.",{"children":"Dry clean, especially for the first few washes."}],["$","li","Store folded in muslin or soft cotton, away from direct sunlight and damp.",{"children":"Store folded in muslin or soft cotton, away from direct sunlight and damp."}],["$","li","Refold along new lines every few months so the zari does not crease and crack.",{"children":"Refold along new lines every few months so the zari does not crease and crack."}],["$","li","Iron on low heat on the reverse, with a cloth between iron and fabric.",{"children":"Iron on low heat on the reverse, with a cloth between iron and fabric."}]]}]]}],["$","section","Sheer weaves: Chanderi",{"className":"mt-14 border-t border-sand pt-8 max-md:mt-10 max-md:pt-6","children":[["$","h2",null,{"className":"serif text-3xl","children":"Sheer weaves: Chanderi"}],["$","ul",null,{"className":"mt-5 max-md:mt-3 list-disc space-y-2 pl-5 text-ink-soft","children":[["$","li","A gentle dry clean is safest.",{"children":"A gentle dry clean is safest."}],["$","li","Store loosely folded; avoid plastic covers.",{"children":"Store loosely folded; avoid plastic covers."}],["$","li","Steam lightly rather than pressing directly.",{"children":"Steam lightly rather than pressing directly."}]]}]]}],["$","section","Linen & cotton",{"className":"mt-14 border-t border-sand pt-8 max-md:mt-10 max-md:pt-6","children":[["$","h2",null,{"className":"serif text-3xl","children":"Linen & cotton"}],["$","ul",null,{"className":"mt-5 max-md:mt-3 list-disc space-y-2 pl-5 text-ink-soft","children":[["$","li","Hand wash in cold water with a mild detergent; wash separately at first.",{"children":"Hand wash in cold water with a mild detergent; wash separately at first."}],["$","li","Dry in the shade and avoid wringing.",{"children":"Dry in the shade and avoid wringing."}],["$","li","Iron while slightly damp on medium heat.",{"children":"Iron while slightly damp on medium heat."}]]}]]}]]]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$b"}}]]
+1:[["children",{"s":"care-guide","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#E8EAE2"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Saree Care Guide · Kanchiberry"}],["$","meta","1",{"name":"description","content":"General guidance on caring for silk, sheer and cotton or linen sarees."}],["$","link","2",{"rel":"canonical","href":"https://bonvarg-hash.github.io/kanchiberry-boutique-preview/care-guide/"}],["$","meta","3",{"property":"og:title","content":"Kanchiberry — The finest fruit of Indian weave"}],["$","meta","4",{"property":"og:description","content":"An ode to timeless weaves, extraordinary craftsmanship, and the art of draping."}],["$","meta","5",{"property":"og:site_name","content":"Kanchiberry"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Kanchiberry — The finest fruit of Indian weave"}],["$","meta","9",{"name":"twitter:description","content":"An ode to timeless weaves, extraordinary craftsmanship, and the art of draping."}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$b"}},"a":"$@16","u":"$@17","b":"tWZBEYwx14ueyTMu8kYGl"}
+f:null
+17:true
+b:300
+b:C
+16:0
+9:"$undefined"
+15:"$undefined"
+10:"$undefined"

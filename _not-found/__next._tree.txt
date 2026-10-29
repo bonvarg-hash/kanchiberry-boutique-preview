@@ -1,0 +1,5 @@
+:HL["/kanchiberry-boutique-preview/_next/static/chunks/3tws66auh755i.css","style"]
+:HL["/kanchiberry-boutique-preview/_next/static/chunks/1zzypjfoj149_.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
+0:{"b":"tWZBEYwx14ueyTMu8kYGl","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

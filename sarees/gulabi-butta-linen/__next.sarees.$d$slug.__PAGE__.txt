@@ -1,0 +1,32 @@
+2:"$Sreact.fragment"
+3:"/kanchiberry-boutique-preview/_next/static/chunks/0umf92h1sb77c.js"
+4:"/kanchiberry-boutique-preview/_next/static/chunks/1mqm_21x14vb1.js"
+5:"/kanchiberry-boutique-preview/_next/static/chunks/3l0h4qw-44xze.js"
+6:"/kanchiberry-boutique-preview/_next/static/chunks/3z4a42ii_51w4.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+f:I[22016,["$3","$4","$5","$6"],""]
+10:I[30754,["$3","$4","$5","$6"],"ProductView"]
+11:I[74515,["$3","$4","$5","$6"],"ProductCard"]
+12:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[97367,["$3","$4","$5","$6"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$3","$4","$5","$6"],"$18"]
+a:X
+a:C
+b:X
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","nav",null,{"aria-label":"Breadcrumb","className":"wrap hidden pt-8 text-[14px] text-ink-soft md:block","children":["$","ol",null,{"className":"flex flex-wrap gap-2","children":[["$","li",null,{"children":[["$","$Lf",null,{"href":"/shop","className":"hover:text-ink","children":"Shop"}]," ","/"]}],["$","li",null,{"children":[["$","$Lf",null,{"href":"/shop?weave=linen-cotton","className":"hover:text-ink","children":"Linen & Cotton"}]," ","/"]}],["$","li",null,{"aria-current":"page","className":"text-ink","children":"Gulabi Butta Linen"}]]}]}],[["$","div",null,{"className":"wrap grid gap-8 pb-16 pt-4 max-md:pb-12 max-md:flex max-md:pt-0 max-md:flex-col max-md:gap-0 md:gap-10 md:pb-20 md:pt-6 lg:grid-cols-[1.15fr_1fr] lg:gap-20","children":["$","$L10",null,{"slug":"gulabi-butta-linen"}]}],["$","section",null,{"aria-labelledby":"related-title","className":"wrap border-t border-sand py-14 max-md:pb-16 max-md:pt-10 md:py-20","children":[["$","h2",null,{"id":"related-title","className":"section-title mb-6 font-sans! text-[clamp(1.6rem,2.8vw,2.2rem)]! md:mb-10","children":"You May Also Love"}],["$","div",null,{"className":"grid gap-x-6 gap-y-12 max-sm:-mx-(--wrap-pad) max-sm:flex max-sm:snap-x max-sm:snap-mandatory max-sm:gap-4 max-sm:overflow-x-auto max-sm:overflow-y-hidden max-sm:overscroll-x-contain max-sm:[touch-action:pan-x_pan-y] max-sm:scroll-px-(--wrap-pad) max-sm:px-(--wrap-pad) max-sm:[scrollbar-width:none] sm:grid-cols-4 lg:gap-x-8","children":[["$","div","arakku-butta-linen",{"className":"max-sm:w-[62%] max-sm:shrink-0 max-sm:snap-start","children":["$","$L11",null,{"slug":"arakku-butta-linen"}]}],["$","div","mayil-butta-linen",{"className":"max-sm:w-[62%] max-sm:shrink-0 max-sm:snap-start","children":["$","$L11",null,{"slug":"mayil-butta-linen"}]}],["$","div","haldi-rekha-linen",{"className":"max-sm:w-[62%] max-sm:shrink-0 max-sm:snap-start","children":["$","$L11",null,{"slug":"haldi-rekha-linen"}]}],["$","div","kumkum-kattam-linen",{"className":"max-sm:w-[62%] max-sm:shrink-0 max-sm:snap-start","children":["$","$L11",null,{"slug":"kumkum-kattam-linen"}]}]]}]]}]]],null,["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":"$@15","v":null,"s":"$b"}}]]
+c:[["children",{"s":{"n":"slug","t":"d","k":"gulabi-butta-linen","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@d","v":"$a","s":"$b"},"c":"$Qe"}]]
+1:[["children",{"s":"sarees","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#E8EAE2"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Gulabi Butta Linen, Linen & Cotton · Kanchiberry"}],["$","meta","1",{"name":"description","content":"Rose Pink handloom with gold buttas and a bottle green border. Linen & Cotton in rose pink."}],["$","link","2",{"rel":"canonical","href":"https://bonvarg-hash.github.io/kanchiberry-boutique-preview/sarees/gulabi-butta-linen/"}],["$","meta","3",{"property":"og:title","content":"Gulabi Butta Linen · Kanchiberry"}],["$","meta","4",{"property":"og:description","content":"Rose Pink handloom with gold buttas and a bottle green border."}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"Gulabi Butta Linen · Kanchiberry"}],["$","meta","8",{"name":"twitter:description","content":"Rose Pink handloom with gold buttas and a bottle green border."}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$b"}},"a":"$@1b","u":"$@1c","b":"tWZBEYwx14ueyTMu8kYGl"}
+14:null
+1c:true
+b:300
+b:C
+1b:0
+d:"$undefined"
+9:"$undefined"
+1a:"$undefined"
+15:"$undefined"

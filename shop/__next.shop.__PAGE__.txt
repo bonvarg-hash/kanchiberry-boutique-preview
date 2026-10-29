@@ -1,0 +1,30 @@
+2:"$Sreact.fragment"
+3:"/kanchiberry-boutique-preview/_next/static/chunks/0umf92h1sb77c.js"
+4:"/kanchiberry-boutique-preview/_next/static/chunks/1mqm_21x14vb1.js"
+5:"/kanchiberry-boutique-preview/_next/static/chunks/3l0h4qw-44xze.js"
+6:"/kanchiberry-boutique-preview/_next/static/chunks/3z4a42ii_51w4.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+d:"$Sreact.view_transition"
+e:"$Sreact.suspense"
+f:"/kanchiberry-boutique-preview/_next/static/chunks/24lxow-5ocaw4.js"
+10:I[93901,["$3","$4","$5","$6","$f"],"ShopView"]
+11:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+14:"ViewportBoundary"
+15:I[97367,["$3","$4","$5","$6"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$3","$4","$5","$6"],"$16"]
+a:X
+a:C
+b:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","$d",null,{"enter":{"page-rise":"page-rise","default":"none"},"exit":"none","default":"none","children":["$","div",null,{"className":"min-h-screen bg-paper","children":["$","$e",null,{"fallback":["$","div",null,{"className":"wrap min-h-[60vh] py-20"}],"children":["$","$L10",null,{}]}]}]}],[["$","script","script-0",{"src":"/kanchiberry-boutique-preview/_next/static/chunks/24lxow-5ocaw4.js","async":true}]],["$","$L11",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$b"}}]]
+1:[["children",{"s":"shop","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#E8EAE2"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"All Collections · Kanchiberry"}],["$","meta","1",{"name":"description","content":"Browse Kanjivaram, Banarasi, Paithani, Chanderi, Patola and handloom sarees. Filter by weave, colour, occasion and price."}],["$","link","2",{"rel":"canonical","href":"https://bonvarg-hash.github.io/kanchiberry-boutique-preview/shop/"}],["$","meta","3",{"property":"og:title","content":"Kanchiberry — The finest fruit of Indian weave"}],["$","meta","4",{"property":"og:description","content":"An ode to timeless weaves, extraordinary craftsmanship, and the art of draping."}],["$","meta","5",{"property":"og:site_name","content":"Kanchiberry"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Kanchiberry — The finest fruit of Indian weave"}],["$","meta","9",{"name":"twitter:description","content":"An ode to timeless weaves, extraordinary craftsmanship, and the art of draping."}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$b"}},"a":"$@19","u":"$@1a","b":"tWZBEYwx14ueyTMu8kYGl"}
+12:null
+1a:true
+b:300
+b:C
+19:0
+9:"$undefined"
+18:"$undefined"
+13:"$undefined"

@@ -1,0 +1,11 @@
+:HL["/kanchiberry-boutique-preview/_next/static/chunks/3tws66auh755i.css","style"]
+:HL["/kanchiberry-boutique-preview/_next/static/chunks/1zzypjfoj149_.css","style"]
+:HL["/kanchiberry-boutique-preview/_next/static/media/01d6212a423b17a1-s.p.1pvupmngxrt5z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kanchiberry-boutique-preview/_next/static/media/4316d795dc91c230.p.3lfq07qcauanh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kanchiberry-boutique-preview/_next/static/media/5334a8b26a2684a7.p.40-jm68xkzcno.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kanchiberry-boutique-preview/_next/static/media/6f3ab718e3727c1a-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kanchiberry-boutique-preview/_next/static/media/9d036f80216c14ee-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kanchiberry-boutique-preview/_next/static/media/f462257512209772-s.p.39pl-v7c3qrze.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"art-of-weaving","h":64,"c":"$Q2"}]]
+0:{"b":"tWZBEYwx14ueyTMu8kYGl","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
